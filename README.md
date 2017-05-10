@@ -4,7 +4,7 @@ git repo für das haskell-AT
 ## Organisatorisches
 
 * Treffen montags, 16:15, S1|15/021; SS17
-* Kontakt: vpfanschilling+GP(bei)gmail.com
+* Kontakt: vpfanschilling+AT(bei)gmail.com
 * Wenn ihr Updates/Anmerkungen/Korrekturen/Ergänzungen zu diesem Repo habt, gerne pull request oder email.
 * Mailingliste: Bitte schreibt mir eine Mail, falls ihr noch nicht auf der Mailingliste steht.
 
