@@ -46,6 +46,14 @@ installiert dann den aktuellen ghc für euch.
     
 bietet euch den haskell-compiler. (`stack ghc -- --help` für Hilfe).
 
+## Zum Nachlesen
+
+http://learnyouahaskell.com/chapters - Tutorial-Buch für Haskell-Einsteiger
+
+https://projecteuler.net/archives - Diverse Probleme für Einsteiger
+
+https://hackage.haskell.org/package/base-4.9.1.0/docs/Prelude.html - Dokumentation der Standardfunktionen
+
 ## Hilfe, der Compiler hasst mich
 
 * Die üblichen Fehlerquellen erschlagen?
