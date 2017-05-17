@@ -54,6 +54,8 @@ https://projecteuler.net/archives - Diverse Probleme für Einsteiger
 
 https://hackage.haskell.org/package/base-4.9.1.0/docs/Prelude.html - Dokumentation der Standardfunktionen
 
+http://cheatsheet.codeslower.com/CheatSheet.pdf - ein recht umfangreicher haskell-cheatsheet
+
 ## Hilfe, der Compiler hasst mich
 
 * Die üblichen Fehlerquellen erschlagen?
