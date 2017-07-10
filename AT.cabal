@@ -22,7 +22,11 @@ executable AT-exe
                      , network
                      , url
                      , gloss
-
+                     , Spock
+                     , mtl
+                     , text
+                     , vector
+                     , random
 source-repository head
   type:     git
   location: https://github.com/githubuser/AT
